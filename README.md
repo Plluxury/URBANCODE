@@ -2,7 +2,7 @@
 
 HOW TO RUN
 
-# You need installed docker on yout local machine !
+# You need installed docker on your local machine !
 
 # only what you need just run dockerfile and see result
 
