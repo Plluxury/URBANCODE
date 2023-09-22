@@ -8,7 +8,7 @@ HOW TO RUN
 
 first: docker build -it hackaton .
 
-second: dcoker run -it hackaton
+second: docker run -it hackaton
 
 third: check docker id -> docker ps
 
