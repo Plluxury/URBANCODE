@@ -6,7 +6,7 @@ HOW TO RUN
 
 # only what you need just run dockerfile and see result
 
-first: docker build -it hackaton .
+first: docker build -t hackaton .
 
 second: docker run -it hackaton
 
